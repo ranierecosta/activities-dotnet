@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{D6C37F54-87B2-44DB-B23E-8EBFE3867601}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="API/Controllers/ActivitiesController.cs">
+    <Files>
+      <File FileName="API/Controllers/ActivitiesController.cs" Line="19" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="activities-source" expanded="True">
+            <Node name="API" expanded="True">
+              <Node name="Controllers" expanded="True" />
+            </Node>
+            <Node name="Application" expanded="True">
+              <Node name="Activities" expanded="True">
+                <Node name="List.cs" selected="True" />
+              </Node>
+            </Node>
+            <Node name="Domain" expanded="True" />
+            <Node name="Persistence" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.API PreferredExecutionTarget="/Applications/Microsoft Edge.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
