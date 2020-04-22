@@ -1,5 +1,4 @@
-﻿using System;
-using Domain;
+﻿using Domain;
 using Microsoft.EntityFrameworkCore;
 
 namespace Persistence
@@ -17,9 +16,9 @@ namespace Persistence
         {
             builder.Entity<Value>()
                 .HasData(
-                    new Value {Id = 1, Name = "Value 1.01"},
-                    new Value {Id = 2, Name = "Value 1.02"},
-                    new Value {Id = 3, Name = "Value 1.03"}
+                    new Value { Id = 1, Name = "Value 1.01" },
+                    new Value { Id = 2, Name = "Value 1.02" },
+                    new Value { Id = 3, Name = "Value 1.03" }
                 );
         }
     }
